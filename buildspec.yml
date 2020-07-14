@@ -2,7 +2,7 @@ version: 0.2
 
 env:
   variables:
-    IMAGE_REPO_NAME: "payment"
+    IMAGE_REPO_NAME: "teamb-payment"
 
 phases:
   install:
